@@ -1,7 +1,7 @@
 {
-  "homepage" : "https://charanraju18.github.io/blood-donation-camp",
   "name": "gainioz",
   "version": "0.1.0",
+  "homepage": "https://gainioz-react.xpressbuddy.com",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
